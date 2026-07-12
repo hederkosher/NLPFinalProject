@@ -1,0 +1,8 @@
+{"input": "classify sentiment: it gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right .", "target": "positive", "refs": ["positive"], "pred": "positive"}
+{"input": "classify sentiment: my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor .", "target": "positive", "refs": ["positive"], "pred": "positive"}
+{"input": "classify sentiment: for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama .", "target": "positive", "refs": ["positive"], "pred": "positive"}
+{"input": "classify sentiment: cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .", "target": "positive", "refs": ["positive"], "pred": "positive"}
+{"input": "classify sentiment: charles ' entertaining film chronicles seinfeld 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic adams ' attempts to get his shot at the big time .", "target": "positive", "refs": ["positive"], "pred": "positive"}
+{"input": "classify sentiment: and that leaves a hole in the center of the salton sea .", "target": "negative", "refs": ["negative"], "pred": "negative"}
+{"input": "classify sentiment: the film tunes into a grief that could lead a man across centuries .", "target": "positive", "refs": ["positive"], "pred": "negative"}
+{"input": "classify sentiment: or doing last year 's taxes with your ex-wife .", "target": "negative", "refs": ["negative"], "pred": "negative"}

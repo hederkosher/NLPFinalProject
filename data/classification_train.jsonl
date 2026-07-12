@@ -1,0 +1,1000 @@
+{"task": "classification", "input": "classify sentiment: klein , charming in comedies like american pie and dead-on in election ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: be fruitful", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: soulful and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the proud warrior that still lingers in the souls of these characters", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: covered earlier and much better", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: wise and powerful", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a powerful and reasonably fulfilling gestalt", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: smart and newfangled", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it too is a bomb .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: guilty about it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: while the importance of being earnest offers opportunities for occasional smiles and chuckles", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stevens ' vibrant creative instincts", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: great artistic significance", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: what does n't this film have that an impressionable kid could n't stand to hear ?", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: working from a surprisingly sensitive script co-written by gianni romoli ...", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: eight crazy nights is a total misfire .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: weighty revelations , flowery dialogue , and nostalgia for the past", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the campy results make mel brooks ' borscht belt schtick look sophisticated .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: demonstrate how desperate the makers of this ` we 're - doing-it-for - the-cash ' sequel were", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: accompanied by the sketchiest of captions .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a first-class , thoroughly involving b movie that effectively combines two surefire , beloved genres -- the prison flick and the fight film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: than indecent proposal", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an mtv , sugar hysteria", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: showcases tom hanks as a depression era hit-man in this dark tale of revenge", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: does n't deliver a great story , nor", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: with results that are sometimes bracing , sometimes baffling and quite often , and in unexpected ways , touching", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: distinct rarity", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hate yourself", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the mystery of enigma is how a rich historical subject , combined with so much first-rate talent ... could have yielded such a flat , plodding picture .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: unabashedly romantic picture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: that flow through the hollywood pipeline without a hitch", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: be killed", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 'll probably be in video stores by christmas ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the pristine camerawork", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: terrific , sweaty-palmed fun", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: takes hold", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: check this one out", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is too bad that this likable movie is n't more accomplished .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a moving and weighty depiction of one family", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: big-hearted and frequently", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: acceptable , occasionally very enjoyable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: take a complete moron to foul up a screen adaptation of oscar wilde 's classic satire", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a saga of the ups and downs of friendships", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , beloved genres", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: delicious and delicately", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the huskies are beautiful", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: joyless", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: than this unexpectedly moving meditation on love , history , memory , resistance and artistic transcendence", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: burning", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: inadvertent ones", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: hollow tribute", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the 3-d vistas from orbit , with the space station suspended like a huge set of wind chimes over the great blue globe , are stanzas of breathtaking , awe-inspiring visual poetry .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: astonishing ... ( frames ) profound ethical and philosophical questions in the form of dazzling pop entertainment", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: are no special effects , and no hollywood endings .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: there 's a scientific law to be discerned here that producers would be well to heed", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: we have no idea what in creation is going on", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: i have always appreciated a smartly written motion picture ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ready-made midnight movie", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to the movie 's contrived , lame screenplay and listless direction", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a powerful 1957 drama", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a third-person story now , told by hollywood , and much more ordinary for it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: no-surprise series", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: extra effort to see an artist , still committed to growth in his ninth decade , change while remaining true to his principles", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , nickelodeon-esque kiddie flick", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: offers no new insight", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: disjointed", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: combined with indoctrinated prejudice", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: exploitation film", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: who needs mind-bending drugs when they can see this , the final part of the ` qatsi ' trilogy , directed by godfrey reggio , with music by philip glass ?", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sly , sophisticated and surprising .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for a guy who has waited three years with breathless anticipation for a new hal hartley movie to pore over , no such thing is a big letdown .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pale successor", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: still want my money back .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as terrible as the synergistic impulse that created it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: obnoxious adults", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: every joke is repeated at least --", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: for nearly three hours", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: huge-screen", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: appears not to have been edited at all", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a buoyant romantic comedy about friendship , love , and the truth", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: seem like such a bore", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 2002 's first great film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: amy and matthew have a bit of a phony relationship , but", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: classy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: clunky tv-movie approach", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: independent film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with drama , romance , tragedy , bravery , political intrigue , partisans and sabotage", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: more revealing , more emotional and more surprising --", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: wo n't have any trouble getting kids to eat up these veggies", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ingenious and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: outrageous , ingenious", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: though it pretends to expose the life of male hustlers", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a man whose engaging manner and flamboyant style made him a truly larger-than-life character", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is unconvincing soap opera that tornatore was right to cut .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the most purely enjoyable and satisfying evenings", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: demonstrates a vivid imagination and an impressive style that result in some terrific setpieces", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: gentle and biting", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of dumb drug jokes and predictable slapstick", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a movie with depth", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its plot and animation offer daytime tv serviceability , but little more .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: with familiar situations and repetitive scenes", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: family-oriented", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a very resonant chord", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: has an ambition to say something about its subjects , but not a willingness .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's pretty stupid .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: i 've never seen or heard anything quite like this film ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: seem to keep upping the ante on each other , just as their characters do in the film .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a dull , simple-minded and stereotypical tale of drugs ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: uncinematic but", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: in venice", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with so many distracting special effects and visual party tricks", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: anchored by splendid performances", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: concentrates far too much on the awkward interplay and utter lack of chemistry between chan and hewitt", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: too simple and the working out of the plot almost arbitrary", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: crack you up with her crass , then gasp for gas , verbal deportment", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: emerges with yet another remarkable yet shockingly little-known perspective .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , you 'll swear that you 've seen it all before , even if you 've never come within a mile of the longest yard .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: soon-to-be-forgettable '' section", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as a dentist 's waiting room", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: downbeat , period-perfect biopic hammers home a heavy-handed moralistic message", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: imagine ( if possible ) a pasolini film without passion or politics", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: suspenseful horror movie", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of bland hotels , highways , parking lots", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: look back at civil disobedience , anti-war movements and the power of strong voices .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: are terribly wasted", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's nothing remotely topical or sexy here .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: faith , love and power", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: astonishing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: likable , but just as often it 's meandering , low on energy , and too eager to be quirky at moments when a little old-fashioned storytelling would come in handy .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does n't have anything really interesting to say .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: offers a persuasive", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to knock back a beer with but they 're simply not funny performers", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: humorless , self-conscious art drivel , made without a glimmer of intelligence or invention .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: playfully profound ... and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: like a comedian who starts off promisingly but then proceeds to flop", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: of his way to turn the legendary wit 's classic mistaken identity farce into brutally labored and unfunny hokum", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: hard to believe these jokers are supposed to have pulled off four similar kidnappings before", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: nutty , consistently funny .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: masterpiece .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: takes a simple premise and carries it to unexpected heights .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: become apparent that the franchise 's best years are long past", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: not-so-funny gags ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: listless direction", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: grayish quality", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is the kathie lee gifford of film directors , sadly proving once again ego does n't always go hand in hand with talent .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: rendered with such clarity that it 's as if it all happened only yesterday", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the pianist is the film roman polanski may have been born to make .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sandra bullock and hugh grant make a great team", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ` what 's the russian word for wow !? '", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: meandering , low on energy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: comes along only occasionally", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: too indulgent", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: novel", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: exceptional performances", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: those rare films that come by once in a while with flawless amounts of acting , direction , story and pace", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it ai n't art , by a long shot ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the worst possibilities of mankind", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's better than the phantom menace", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: most daring", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: which also seems to play on a 10-year delay", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: scary , action-packed chiller", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: into a gut-wrenching examination of the way cultural differences and emotional expectations collide", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its playwriting 101 premise", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of a movie , a vampire soap opera that does n't make much", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: similar obsessions can dominate a family", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: posing as a serious drama about spousal abuse", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: goes further", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: petter næss ' delicate , clever direction ... and a wonderful , imaginative script", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: brimming", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: my two hours better watching", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bland hotels", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the refreshingly unhibited enthusiasm", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it explores the awful complications of one terrifying day", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: lousy guy ritchie imitation", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: if you come from a family that eats , meddles , argues , laughs , kibbitzes and fights together , then go see this delightful comedy .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it 's a heck of a ride", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to his series of spectacular belly flops both on and off the screen", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ultimately defeated the film ... it was the unfulfilling , incongruous , `` wait a second", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it an above-average thriller", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: trouble every day is a plodding mess .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a stirring , funny", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: liked this film a lot", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a more confused , less interesting and more sloppily made film could possibly come down the road in 2002", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: search of purpose or even a plot", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: hate the feeling of having been slimed in the name of high art .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a disappointingly thin slice of lower-class london life ; despite the title", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: leaves blue crush waterlogged", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: most audacious ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: reign of fire never comes close to recovering from its demented premise , but", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: comprise a powerful and reasonably fulfilling gestalt .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cute partnership", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a total lack", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: `` ( hopkins ) does n't so much phone in his performance as fax it .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: involving in its bold presentation", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: most notable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: fixating", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: dull girl", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: nothing overly original , mind you , but solidly entertaining .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it all seemed wasted like deniro 's once promising career and the once grand long beach boardwalk .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's tommy 's job to clean the peep booths surrounding her , and after viewing this one , you 'll feel like mopping up , too", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: not great", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: toilet-humor", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does its best", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: be exploring the idea of why human beings long for what they do n't have , and how this gets us in trouble", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: filmed directly", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: adorably ditsy but heartfelt performances", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's usually a bad sign when directors abandon their scripts and go where the moment takes them", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: with cheapo animation ( like saturday morning tv in the '60s ) , a complex sword-and-sorcery plot and characters who all have big round eyes and japanese names .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: manages to nail the spirit-crushing ennui of denuded urban living without giving in to it", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: take ( its ) earnest errors and hard-won rewards over the bombastic self-glorification of other feel-good fiascos like antwone fisher or the emperor 's club any time", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hollow , self-indulgent , and - worst of all - boring", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: although olivier assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to get a coherent rhythm going", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: hard to care", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as the princess , sorvino glides gracefully from male persona to female without missing a beat .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: critical and commercial disaster", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: `` frailty '' has been written so well , that even a simple `` goddammit ! ''", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's fun , wispy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: half-baked setups and sluggish pacing", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: at every opportunity to do something clever , the film goes right over the edge and kills every sense of believability ...", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it looks good , sonny ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to being the barn-burningly bad movie it promised it would be", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: found the ring moderately absorbing , largely for its elegantly colorful look and sound .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: flat-out amusing , sometimes endearing and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's a solid movie about people whose lives are anything but .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: if there 's no art here", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: seem tired", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: astringent wit", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is definitely a director to watch .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the sally jesse raphael atmosphere of films like philadelphia and american beauty", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its accumulated enjoyment", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: emotionally intense", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: absolutely refreshed", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ( washington 's ) strong hand , keen eye , sweet spirit and good taste are reflected in almost every scene .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: will absolutely crack you up with her crass , then gasp for gas , verbal deportment .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: play their roles with vibrant charm", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: strangely moved by even the corniest and most hackneyed contrivances", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: on the strength of their own cleverness", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: incredibly irritating comedy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: unexpected , and often contradictory , truths emerge .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: enough funny", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: time out is existential drama without any of the pretension associated with the term .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a clash between the artificial structure of the story and the more contemporary , naturalistic tone of the film ...", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: informative and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: out of control", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the mark of a respectable summer blockbuster is one of two things : unadulterated thrills or genuine laughs .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a case study that exists apart from all the movie 's political ramifications", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is badly edited , often awkwardly directed and suffers from the addition of a wholly unnecessary pre-credit sequence designed to give some of the characters a ` back story .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: happens when something goes bump in the night and nobody cares ?", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the real triumphs in igby come from philippe , who makes oliver far more interesting than the character 's lines would suggest , and sarandon , who could n't be better as a cruel but weirdly likable wasp matron .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: directed the film from the back of a taxicab", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the incessant use", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a retooling of fahrenheit 451 , and even as a rip-off of the matrix", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: their memorable and resourceful performances", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a welcome , if downbeat , missive", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a good thing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: that a life like this can sound so dull", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: adventure movie", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: got something", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a film that comes along every day .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a reasonable degree", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it 's up to ( watts ) to lend credibility to this strange scenario , and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a cute alien creature", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: magic and whimsy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: time and art", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: there , done that ... a thousand times already", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: not as outrageous or funny", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: conceptual feat", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a part of its fun", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: can only love the players it brings to the fore for the gifted but no-nonsense human beings they are and for the still-inestimable contribution they have made to our shared history .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: emotionally complex , dramatically satisfying heroine", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: thrills the eye", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: interesting matters of identity and heritage", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: morality , family , and social expectation", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: fun , with an undeniable energy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: well-balanced fashion", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 're the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: vivid", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: traditional layers of awakening and ripening and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stoked", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: trash", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: in rhetoric and cliché", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: wonderful , imaginative script", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: work as a jaunt down memory lane for teens and young adults who grew up on televised scooby-doo shows or reruns", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: diverges from anything", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it is not worth", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as immaculate as stuart little 2 is , it could be a lot better if it were , well , more adventurous .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: realistic , non-exploitive approach", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of his sweetness and vulnerability", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a worthwhile documentary , whether you 're into rap or not , even if it may still leave you wanting more answers as the credits", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: rivals the top japanese animations of recent vintage", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: formulaic , its plot and pacing typical hollywood war-movie stuff , while the performances elicit more of a sense of deja vu than awe", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is bravado -- to take an entirely stale concept and push it through the audience 's meat grinder one more time", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: starts promisingly but disintegrates into a dreary , humorless soap opera .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: humor , warmth , and intelligence", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is extraordinarily good .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: oozing with attractive men", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: swim represents an engaging and intimate first feature by a talented director to watch", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , the film amounts to being lectured to by tech-geeks , if you 're up for that sort of thing .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: undoubtedly the scariest movie ever made about tattoos .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: more simply intrusive to the story", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a spectacular completion one", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: three splendid actors", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: we hate ( madonna ) within the film 's first five minutes , and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: more confused , less interesting and more", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: on the irrelevant as on the engaging , which gradually turns what time", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the film retains ambiguities that make it well worth watching .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: tv sitcom material", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: by an overly sillified plot and stop-and-start pacing", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: balance all the formulaic equations in the long-winded heist comedy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: blithe rebel fantasy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's not even a tv special you 'd bother watching past the second commercial break", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: perhaps even the slc high command found writer-director mitch davis 's wall of kitsch hard going .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: nothing about the film -- with the possible exception of elizabeth hurley 's breasts -- is authentic .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: some body smacks of exhibitionism more than it does cathartic truth telling .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a shame that stealing harvard is too busy getting in its own way to be anything but frustrating , boring , and forgettable .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: enjoyable family fare", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: relegated to the background -- a welcome step forward from the sally jesse raphael atmosphere of films like philadelphia and american beauty", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , but your ego", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to conceive anyone else in their roles", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a muddy psychological thriller", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sandra bullock and hugh grant make a great team , but this predictable romantic comedy should get a pink slip", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: spectacular in every sense of the word , even if you don ' t", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: less the sensational true-crime hell-jaunt purists might like and more experimental in its storytelling ( though no less horrifying for it ) .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: abuse", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: acting , poorly dubbed dialogue and murky cinematography", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: very much like life", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , wistful new film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: energy it 's documenting", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: bludgeoning", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the kind of movie that deserves a chance to shine", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: -- being real --", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: roars with leonine power", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: featuring reams of flatly", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: structured and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: succeeds", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: shiner", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: across its indulgent two-hour-and-fifteen-minute length", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: may ... work as a jaunt down memory lane for teens and young adults who grew up on televised scooby-doo shows or reruns .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: good-naturedly", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , and by casting an actress whose face projects that woman 's doubts and yearnings", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: most of the things that made the original men in black such a pleasure are still there .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is darkly funny in its observation of just how much more grueling and time-consuming the illusion of work is than actual work", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: this flick is fun , and host to some truly excellent sequences .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for children", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: engaging mix", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: most ingenious film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: because of its epic scope", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to see a movie that takes such a speedy swan dive from `` promising '' to `` interesting '' to `` familiar '' before landing squarely on `` stupid ''", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the cute frissons of discovery and humor between chaplin and kidman that keep this nicely wound clock not just ticking , but humming", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is , in fact , so interesting", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: unwieldy contraption .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: those 24-and-unders looking for their own caddyshack to adopt as a generational signpost may have to keep on looking .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: feel good about", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the mood for an intelligent weepy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ultimately the , yes , snail-like pacing and lack of thematic resonance make the film more silly than scary , like some sort of martha stewart decorating program run amok .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to say that it does n't follow the stale , standard , connect-the-dots storyline which has become commonplace in movies that explore the seamy underbelly of the criminal world", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the movie has a cinematic fluidity and sense of intelligence that makes it work more than it probably should .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its occasional charms", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: carrying off a spot-on scottish burr , duvall ( also a producer ) peels layers from this character that may well not have existed on paper .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: masterfully calibrated psychological thriller", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: vividly detailed story about newcomers in a strange new world", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: be the best and most mature comedy of the 2002 summer season speaks more of the season than the picture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the reunion", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: rae", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: treat for its depiction on not giving up on dreams when you 're a struggling nobody", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: duds", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sure , i hated myself in the morning .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a film in a class with spike lee 's masterful do the right thing .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it at least calls attention to a problem hollywood too long has ignored", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of the great crimes", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: in all the right ways", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: any summer blockbuster", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: but on the whole , you 're gon na like this movie .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: far from heaven is a dazzling conceptual feat , but more than that , it 's a work of enthralling drama .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with which it tries to pump life into overworked elements from eastwood 's dirty harry period", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a typical bible killer story", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: indescribably bad", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: succeeded in", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it 's a compelling and horrifying story", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for an unfocused screenplay", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: particular interest", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: you get to see the one of the world 's best actors , daniel auteuil ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: elegance and maturity", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: film to drag on for nearly three hours", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: , this movie proves you wrong on both counts .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: work up much entertainment value", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: highly uneven and inconsistent ... margarita happy hour kinda", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: both heartbreaking and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an intimacy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: how to win the battle", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a spiffy animated feature about an unruly adolescent boy who is yearning for adventure and a chance to prove his worth", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as very important simply because the movie is ugly to look at and not a hollywood product .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: cheery and tranquil suburban life", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: getting tired of the whole slo-mo , double-pistoled , ballistic-pyrotechnic hong kong action aesthetic", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: has thankfully ditched the saccharine sentimentality of bicentennial man in favor of an altogether darker side", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for purposes of bland hollywood romance", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: old story", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: avoids the cartoonish clichés and sneering humor of the genre as it provides a fresh view of an old type", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to merit such superficial treatment", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: showcase the canadian 's inane ramblings", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: takes a hat-in-hand approach to rowling that stifles creativity and allows the film to drag on for nearly three hours .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a fast-moving and cheerfully simplistic 88 minutes of exaggerated action", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is so thoughtlessly assembled .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: which is way too stagy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: one of the most interesting writer/directors", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: humor and heart and very talented young actors", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: seem bound and determined to duplicate bela lugosi 's now-cliched vampire accent", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's stylishly directed with verve ...", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: moved", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's far too tragic", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: like me , think an action film disguised as a war tribute is disgusting to begin with", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a convincing one", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: seem sincere , and just", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: lot to do with the casting of juliette binoche as sand , who brings to the role her pale , dark beauty and characteristic warmth", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , i guess a space station in the year 2455 can be crossed off the list of ideas for the inevitable future sequels ( hey , do n't shoot the messenger ) .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: merely bad", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: dismiss", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: barry convinces us he 's a dangerous , secretly unhinged guy who could easily have killed a president because it made him feel powerful .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's a square , sentimental drama that satisfies , as comfort food often can .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a little melodramatic , but with enough hope to keep you engaged .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , director robert j. siegel allows the characters to inhabit their world without cleaving to a narrative arc .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an unfortunate title for a film that has nothing endearing about it .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a coming-of-age story and cautionary parable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cremaster 3 is at once a tough pill to swallow and a minor miracle of self-expression .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cold", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: narcissism and self-congratulation", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: an edifying glimpse into the wit and revolutionary spirit of these performers and their era", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sabotaged by pomposity", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: starring a `` snl '' has-been acting like an 8-year-old channeling roberto benigni", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the fascination comes in the power of the huston performance , which seems so larger than life and yet so fragile", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: fresh territory", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: offers piercing domestic drama with spikes of sly humor .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: like the world of his film , hartley created a monster but did n't know how to handle it .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: overdone", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sharp", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: three sides of his story with a sensitivity and an inquisitiveness reminiscent of truffaut", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: subtle , and resonant", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , self-important stories", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: feels like pieces a bunch of other , better movies slapped together .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this movie loves women at all", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: imponderably stilted and self-consciously arty", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: of loss and denial and life-at-arm 's - length in the film", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pitch-perfect", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: wise , wizened", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's sharply comic and surprisingly touching ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of balto", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the most magical and most fun family fare of this or any recent holiday season", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: in all , an interesting look at the life of the campaign-trail press , especially ones that do n't really care for the candidate", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: such an excellent job of critiquing itself at every faltering half-step of its development that criticizing feels more like commiserating", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a flourish", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an exhilarating new interpretation in morvern callar", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is that wind-in-the-hair exhilarating", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a '' range", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: fit well together", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of tastelessness and gall", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as the chatter of parrots raised on oprah", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: tasty and sweet", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: simple-minded", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: flat and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: insightfully written , delicately performed", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: bracing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a muddled limp biscuit", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: slapping its target audience", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: too many characters saying too many clever things and getting into too many pointless situations", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: life-changing chance encounters", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: while i ca n't say it 's on par with the first one , stuart little 2 is a light , fun cheese puff of a movie .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: that it looks neat", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: most of the dialogue made me want to pack raw dough in my ears .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: shtick", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does n't give us a reason to be in the theater beyond wilde 's wit and the actors ' performances", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: intelligent , and humanly funny film .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: as if trying to grab a lump of play-doh , the harder that liman tries to squeeze his story , the more details slip out between his fingers .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the highly predictable narrative falls short", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: see what he could make with a decent budget", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , it 's contrived and predictable", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: into a warmed over pastiche", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: deeply absorbing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: interesting characters or even a halfway intriguing plot", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the lively intelligence", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: brooding", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a legend", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: pathetic , endearing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: completely forgettable", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the station looking for a return ticket to realism", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a stereotype", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's also somewhat clumsy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: solid , kinetically-charged spy flick worthy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the film is well-intentioned", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: imaginative filmmaker", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: despite terrific special effects and funnier gags , harry potter and the chamber of secrets finds a way to make j.k. rowling 's marvelous series into a deadly bore .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it has some cute moments , funny scenes , and hits the target audience ( young bow wow fans ) - with nothing but net", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with clumsy dialogue , heavy-handed phoney-feeling sentiment , and an overly-familiar set", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: of a slightly more literate filmgoing audience", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: his usual intelligence and subtlety", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the sheer ugliness of everything else", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: cram too many ingredients into one small pot", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bible stores of the potential for sanctimoniousness , making them meaningful for both kids and church-wary adults", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: like many western action films , this thriller is too loud and thoroughly overbearing ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: drawn in by the sympathetic characters", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: more plot", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's not half-bad .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a truly larger-than-life character", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: harmless fun .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: like having two guys yelling in your face for two hours", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: than this hastily dubbed disaster", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: guide a loose , poorly structured film through the pitfalls of incoherence and redundancy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sweet , and intermittently hilarious", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a stylish cast and some clever scripting solutions help chicago make the transition from stage to screen with considerable appeal intact .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with phony imagery or music", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: painfully flat", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: good documentarian", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stunning technical achievement", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a lovely and beautifully photographed romance .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stimulating and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: they spend years trying to comprehend it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's too harsh to work as a piece of storytelling", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bullock and grant still look ill at ease sharing the same scene .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: strained caper movies that 's hardly any fun to watch and begins to vaporize from your memory minutes after it ends", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: saving", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: potentially trite and overused concept", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: full of nuance and character dimension", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cleverly worked out", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: giving it a strong thumbs up", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: his films so memorable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a sudden turn and devolves", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: were more repulsive", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: have a sense of humor", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: because both are just actory concoctions , defined by childlike dimness and a handful of quirks", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: thanks to the presence of ` the king", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is as difficult for the audience", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a worldly-wise and very funny script", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is cheap junk and an insult to their death-defying efforts", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it is impossible not to be awed by the power and grace of one of the greatest natural sportsmen of modern times .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: recycled more times", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: do n't think that a.c. will help this movie one bit", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's weird , wonderful , and not necessarily for kids", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its oscar nomination", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a sweet , tender sermon about a 12-year-old welsh boy more curious", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cloaks a familiar anti-feminist equation ( career - kids = misery ) in tiresome romantic-comedy duds .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's won", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: watch , giggle", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: has moments of inspired humor", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: in this fascinating portrait of a modern lothario", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the movie straddles the fence between escapism and social commentary , and on both sides it falls short .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this funny film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: berry 's saucy ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: many ways the perfect festival film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: done any better in bringing the story of spider-man to the big screen", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: capable of anteing up some movie star charisma", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: their shallow styles", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the woodman seems to have directly influenced this girl-meets-girl love story , but even more reassuring is how its makers actually seem to understand what made allen 's romantic comedies so pertinent and enduring .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: one of recent memory 's most thoughtful films about art , ethics , and the cost of moral compromise .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: naturally funny film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: from director mark romanek 's self-conscious scrutiny", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: that if the video is n't back at blockbuster before midnight , you 're going to face frightening late fees", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: from a genre -- the gangster/crime comedy -- that wore out its welcome with audiences several years ago", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: characteristically startling visual style", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: abundant", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: skins has a desolate air , but eyre , a native american raised by white parents , manages to infuse the rocky path to sibling reconciliation with flashes of warmth and gentle humor .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with a jarring , new-agey tone creeping into the second half", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: over the bombastic self-glorification of other feel-good fiascos like antwone fisher or the emperor 's club any time", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the good ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: and they succeed merrily at their noble endeavor .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: local", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: can get your money back", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: congrats disney on a job well done , i enjoyed it just as much !", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a sun-drenched masterpiece", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's been responsible for putting together any movies of particular value or merit", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: in a contest to see who can out-bad-act the other", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ultimate blame", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: one of the most high-concept sci fi adventures attempted for the screen", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a movie so sloppy , so uneven , so damn unpleasant", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: their outrageousness", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is a towering siren .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is prime escapist fare .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , satisfying", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sade achieves the near-impossible", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: deeply concerned with morality", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: see a romance this smart", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: so sloppy , so uneven , so", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a cellophane-pop remake of the punk classic ladies and gentlemen , the fabulous stains ... crossroads is never much worse than bland or better than inconsequential", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does somehow manage to get you under its spell", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: at keeping themselves kicking", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: world traveler might not go anywhere new , or arrive anyplace special , but it 's certainly an honest attempt to get at something .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of the problems with the film", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ethnic sleeper", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , a ripping good yarn is told .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's what makes it worth a recommendation", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: keep you engaged", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's nothing interesting in unfaithful whatsoever", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sit and stare and turn away from one another instead of talking", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 'm not sure these words have ever been together in the same sentence", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: proved too difficult a text to ` lick , ' despite the efforts of a first-rate cast .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: castrated", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's a fantastic movie", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , standoffish to everyone else , and smugly suggests a superior moral tone is more important than filmmaking skill", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: wedgie", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: of a brutally honest individual like prophet jack", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the best", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: makes less sense than the bruckheimeresque american action flicks it emulates .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the jokes , most at women 's expense", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: perfectly pleasant if", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: his life drew to a close", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's lovely", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: appreciates the art and reveals a music scene that transcends culture and race .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: should be able to appreciate the wonderful cinematography and naturalistic acting .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a snore and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: are rendered with such clarity that it 's as if it all happened only yesterday", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the cinema world 's great visual stylists", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: what 's missing in murder by numbers is any real psychological grounding for the teens ' deviant behavior .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is complex from the start -- and , refreshingly , stays that way .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is an accuracy of observation in the work of the director , frank novak , that keeps the film grounded in an undeniable social realism .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: skilled", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: like the imaginary sport it projects onto the screen -- loud , violent and mindless .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: considerable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: grinds itself out", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: much as i laughed throughout the movie", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: emotionally complex", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an eloquent memorial", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , however entertainingly presented ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: with a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: to mind , while watching eric rohmer 's tribute to a courageous scottish lady", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's a solid movie about people whose lives are anything but", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: contriving", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the big summer movies", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a tremendous , offbeat sense of style and humor that suggests he was influenced by some of the filmmakers who have directed him , especially the coen brothers and steven soderbergh", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: clooney directs this film always keeping the balance between the fantastic and the believable ...", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: that proposes as epic tragedy the plight of a callow rich boy who is forced to choose between his beautiful , self-satisfied 22-year-old girlfriend and an equally beautiful , self-satisfied 18-year-old mistress", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the bottom line with nemesis is the same as it has been with all the films in the series : fans will undoubtedly enjoy it , and the uncommitted need n't waste their time on it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this retooled machine is ultimately effective enough at achieving the modest , crowd-pleasing goals it sets for itself .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: watch for that sense of openness , the little surprises .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the script was reportedly rewritten a dozen times -- either 11 times too many or else too few", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: as you watch them clumsily mugging their way through snow dogs ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: jfk conspiracy nuts", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: too goodly , wise and knowing or downright comically evil", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the increasingly diverse french director", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: more than a", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: has its redundancies", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the style and flash of the double-cross that made mamet 's `` house of games '' and last fall 's `` heist '' so much fun", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: jazzy score", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: `` sorority boys '' was funnier , and that movie was pretty bad .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is both a snore and utter tripe .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: quickly sinks into by-the-numbers territory .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this 20th anniversary edition of the film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: content merely to lionize its title character and exploit his anger - all for easy sanctimony , formulaic thrills and a ham-fisted sermon on the need for national health insurance .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: misconceived final", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: might have been saved if the director , tom dey , had spliced together bits and pieces of midnight run and 48 hours ( and , for that matter , shrek )", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: resentment", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: value whatsoever", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: that there is nothing in it to engage children emotionally", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a captivatingly quirky hybrid", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a strong and confident work which works so well for the first 89 minutes , but ends so horrendously confusing in the final two", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: creates images even more haunting than those in mr. spielberg 's 1993 classic", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: tired retread", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: sorvino glides gracefully from male persona to female without missing a beat .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: opening up", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: addition to scoring high for originality of plot", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: daughter", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: final verdict", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: by his lack of self-awareness", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pulpy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the simpering soundtrack and editing", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: its economical", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: cinematic bon bons", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: get out", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is wrong in its sequel", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fascination ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is cinema", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the gifts of all involved , starting with spielberg and going right through the ranks of the players -- on-camera and off -- that he brings together .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: enthrall the whole family", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of all ages", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stuffy , full of itself ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: hold onto what 's left of his passe ' chopsocky glory", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: be underestimated", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: honest insight", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: awarded mythic status in contemporary culture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , the film , directed by joel zwick , is heartfelt and hilarious in ways you ca n't fake .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is honestly affecting", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: more watchable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: does not deserve to go down with a ship as leaky as this", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's a lovely , sad dance highlighted by kwan 's unique directing style", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: much a home video , and so devoid of artifice and purpose that it appears not to have been edited at all .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bristles with passion and energy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: shallow , noisy and pretentious .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a banal spiritual quest", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: be seen as hip , winking social commentary", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: this modern mob music drama", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for a reasonably intelligent person to get through the country bears", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: nothing but one relentlessly depressing situation after another for its entire running time", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: , it uses very little dialogue , making it relatively effortless to read and follow the action at the same time .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a 95-minute commercial", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: creates a fluid and mesmerizing sequence of images to match the words of nijinsky 's diaries .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: this would have been better than the fiction it has concocted , and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: amusing for a good while", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the film 's hero is a bore and his innocence soon becomes a questionable kind of inexcusable dumb innocence .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ultimately flawed", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it projects onto the screen -- loud , violent and mindless", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: real-life persona", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: letdown", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: jump-in-your-seat moment", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: acute expressiveness", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is the action as gripping", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: are complex and quirky , but entirely believable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: shrewd , powerful act", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a definitive counter-cultural document", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: as well as rank frustration from those in the know about rubbo 's dumbed-down tactics )", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: poor casting", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: `` abandon ''", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: particularly balk , who 's finally been given a part worthy of her considerable talents", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: vacuous", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bounces around with limp wrists", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: outing with one of france 's most inventive directors", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: even murphy 's expert comic timing and famed charisma ca n't rescue this effort .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this is rote spookiness , with nary an original idea ( or role , or edit , or score , or anything , really ) in sight", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: find it more than capable of rewarding them", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a terrible movie that some people", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: saturday night live-style parody , '70s blaxploitation films and goofball action comedy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ignore the reputation , and ignore the film .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fessenden has nurtured his metaphors at the expense of his narrative , but he does display an original talent .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: beneath it", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: too goodly , wise and knowing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: however , it 's pleasant enough and its ecological , pro-wildlife sentiments are certainly welcome .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hard to care about a film that proposes as epic tragedy the plight of a callow rich boy who is forced to choose between his beautiful , self-satisfied 22-year-old girlfriend and an equally beautiful , self-satisfied 18-year-old mistress", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a chilling tale of one of the great crimes of 20th century france : the murder of two rich women by their servants in 1933 .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the movie is loaded with good intentions", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a caffeinated , sloppy brilliance ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: assured , vital and well wrought , the film is , arguably , the most accomplished work to date from hong kong 's versatile stanley kwan .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: smartly and wistfully", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: has been awarded mythic status in contemporary culture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: half-assed", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: never quite", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: gentle jesus", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: in a way that 's too loud , too goofy and too short of an attention span", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: warn", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is a fine-looking film with a bouncy score and a clutch of lively songs for deft punctuation .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: exasperated by a noticeable lack of pace", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: would do better elsewhere .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: joys", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: well-behaved film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a little too much resonance with real world events", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is too crazy to be interesting", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: gangster no. 1 is solid , satisfying fare for adults .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: nearly every attempt at humor here is doa .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: girls , right down the reality drain", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fantasized", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: turn in perfectly executed and wonderfully sympathetic characters , who are alternately touching and funny", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: wasting", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a party-hearty teen flick that scalds like acid .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a party-hearty teen", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: whatever terror the heroes of horror movies try to avoid", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: one can honestly describe as looking , sounding and simply feeling like no other film in recent history", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the salton sea works the way a good noir should", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is uniquely felt with a sardonic jolt .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , plodding picture", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pretty watchable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , the film shows signs that someone other than the director got into the editing room and tried to improve things by making the movie go faster .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: made me want to pack raw dough in my ears .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: great pleasure", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: jolt you", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the central flaw", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a captivating drama", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: charismatic rising star jake gyllenhaal", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: on digital video , whose tiny camera enables shafer to navigate spaces both large ... and small ... with considerable aplomb", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sad , occasionally horrifying but often inspiring film", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: goodness", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: with cute accents performing ages-old slapstick and unfunny tricks", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to think about the ways we consume pop culture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it 's no lie -- big fat liar is a real charmer .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the right bands for the playlist and the costuming of the stars", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ensues when brash young men set out to conquer the online world with laptops , cell phones and sketchy business plans", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: , kinky fun", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stalking", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: politically potent", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: when you 're rooting for the film to hurry up and get to its subjects ' deaths just so the documentary will be over", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: about every cliche in the war movie compendium across its indulgent two-hour-and-fifteen-minute length", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it is n't quite one of the worst movies of the year .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: irresponsible", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fused with solid performances and eerie atmosphere", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: there 's nothing exactly wrong here , but there 's not nearly enough that 's right .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: mib ii '' succeeds due to its rapid-fire delivery and enough inspired levity that it ca n't be dismissed as mindless .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: godard uses his characters -- if that 's not too glorified a term -- as art things , mouthpieces , visual motifs , blanks .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's at once laughable and compulsively watchable , in its committed dumbness .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: irritates and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: by a fantastic dual performance from ian holm", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the best actors there is", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: collateral damage is trash", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 'll need a stronger stomach than us", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: that will strike a chord with anyone who 's ever", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: laid-back", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: applying definition to both sides of the man", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: each one of these people stand out and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: minor classic", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a sobering meditation", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: instantly forgettable", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: proves to be a compelling", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: younger lad", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: resolutely avoids all the comic possibilities of its situation , and becomes one more dumb high school comedy about sex gags and prom dates .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: estranged from reality", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: well established", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: teen-driven , toilet-humor codswallop", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is this bad on purpose", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: swill", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: can not help but love cinema paradiso , whether the original version or new director 's cut .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the only surprise is that heavyweights joel silver and robert zemeckis agreed to produce this", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bad at a fraction the budget", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: deserves a look", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a ripping good yarn", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: may be galled that you 've wasted nearly two hours of your own precious life with this silly little puddle of a movie", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: combined with the misconceived final 5", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: layered , well-developed characters and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: nonjudgmental", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: another week , another gross-out college comedy -- ugh .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pitch-perfect holden", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: eight legged freaks falls flat as a spoof .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: tendentious intervention", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the movie 's progression into rambling incoherence", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: some of the worst dialogue", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: essentially a collection of bits -- and they 're all naughty .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: even bother to rent this on video", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: are appealing enough to probably have a good shot at a hollywood career , if they want one", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: rises to its clever what-if concept .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: largest-ever historical canvas", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an uplifting", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an odd drama set in the world of lingerie models and bar dancers in the midwest that held my interest precisely because it did n't try to .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: in addition to gluing you to the edge of your seat , changing lanes is also a film of freshness , imagination and insight .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ( the kid 's ) just too bratty for sympathy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: an ungainly movie , ill-fitting", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: with the assassin is structured less as a documentary and more as a found relic", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the screenplay never lets us forget that bourne was once an amoral assassin just like the ones who are pursuing him ... there is never really a true `` us '' versus `` them ''", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: have infused frida with a visual style unique and inherent to the titular character 's paintings and in the process created a masterful work of art of their own", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: undercuts", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it picked me up , swung me around , and dropped me back in my seat with more emotional force than any other recent film .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: not falling into the hollywood trap and making a vanity project with nothing new to offer", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the sentimental cliches", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a wonderful , imaginative script", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: that come full circle to end on a positive ( if tragic ) note", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the abiding impression , despite the mild hallucinogenic buzz , is of overwhelming waste --", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: , fun , popcorn movies", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: decay", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's definite room for improvement .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: putting the primitive murderer inside a high-tech space station unleashes a pandora 's box of special effects that run the gamut from cheesy to cheesier to cheesiest .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: survive a screening with little harm done , except maybe for the last 15 minutes , which are as maudlin as any after-school special you can imagine", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: others , more attuned to the anarchist maxim that ` the urge to destroy is also a creative urge ' , or more willing to see with their own eyes , will find morrison 's iconoclastic uses of technology to be liberating .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 's hard to imagine any recent film , independent or otherwise , that makes as much of a mess as this one", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: once intimate and universal cinema", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: witty", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a fine documentary", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: stolid remake", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does leblanc make one spectacularly ugly-looking broad", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: any real emotional impact", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: awfully hard", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: narrative banality", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: this quiet , introspective and entertaining independent", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: long and relentlessly saccharine film", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: an unseemly pleasure", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: an extremely unpleasant film .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: reap more rewards", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the feeling of having been slimed in the name of high art", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ( the cockettes ) provides a window into a subculture hell-bent on expressing itself in every way imaginable . '", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a better lot", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: playstation cocktail", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: subplots involving the various silbersteins that it feels more like the pilot episode of a tv series than a feature film", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: while somewhat less than it might have been , the film is a good one , and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: choke", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's muy loco , but no more ridiculous than most of the rest of `` dragonfly", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: director carl franklin , so crisp and economical in one false move ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: sincerely crafted picture", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: much baked cardboard", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to learn , to grow ,", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: just because a walk to remember is shrewd enough to activate girlish tear ducts does n't mean it 's good enough for our girls .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: be ( assayas ' ) homage to the gallic ` tradition of quality", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: no amount of blood and disintegrating vampire cadavers can obscure this movie 's lack of ideas .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: become wearisome", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: stirs us", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a helping hand", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: less of a trifle if ms. sugarman followed through on her defiance of the saccharine", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a limp eddie murphy vehicle that even he seems embarrassed to be part of .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: one of those exceedingly rare films in which the talk alone is enough to keep us involved .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hmmm", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: equal amounts of beautiful movement and inside information .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it labors as storytelling .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is worse :", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's never laugh-out-loud funny , but it is frequently amusing .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the film never finds its tone and several scenes run too long .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the story 's pathetic and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is overlong and not well-acted , but credit writer-producer-director", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: suits the script", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: , the french-produced `` read my lips '' is a movie that understands characters must come first .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the heart and", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: needless", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: its sheer dynamism is infectious .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: overladen", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to send your regrets", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: intentionally introducing your kids to films which will cause loads of irreparable damage that years and years of costly analysis could never fix", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: they 're treading water at best in this forgettable effort", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fun-loving", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: soliloquies about nothing delivered by the former mr. drew barrymore", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: bad enough", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a hard look at one man 's occupational angst and its subsequent reinvention , a terrifying study of bourgeois desperation worthy of claude chabrol .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: spirit-crushing ennui", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: your brain and your secret agent decoder ring at the door", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: judd 's characters ought to pick up the durable best seller smart women , foolish choices for advice .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: three-hour endurance test", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: mariah carey gives us another peek at some of the magic we saw in glitter here in wisegirls .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: fourth-rate", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: feels homogenized and a bit contrived ,", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: approached the usher and said that if she had to sit through it again , she should ask for a raise", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: very capable", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it ends up being neither , and fails at both endeavors .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: try this obscenely bad dark comedy , so crass that it makes edward burns ' sidewalks of new york look like oscar wilde", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: that stinks so badly of hard-sell image-mongering you", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: scotland looks wonderful , the fans are often funny fanatics , the showdown sure beats a bad day of golf", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: melancholic", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: ' it also rocks .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of marivaux 's rhythms , and mira sorvino 's limitations as a classical actress", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: into a black hole of dullness", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: are we dealing with dreams , visions or being told what actually happened as if it were the third ending of clue ?", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: instructive", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: amazing", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the script boasts some tart tv-insider humor , but the film has not a trace of humanity or empathy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: critics have come to term an `` ambitious failure", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: her real-life persona is so charmless and vacant", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: cannon 's confidence and laid-back good spirits are , with the drumming routines , among the film 's saving graces .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the chateau has one very funny joke and a few other decent ones , but all it amounts to is a mildly funny , sometimes tedious , ultimately insignificant film .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: quite touching", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the wobbly premise work", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: city by the sea is a gritty police thriller with all the dysfunctional family dynamics one could wish for .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: these people mattered", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: a script that assumes you are n't very bright", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it is hard not to be especially grateful for freedom after a film like this .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the movie 's charm", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: mostly martha is mostly unsurprising", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: be most effective if used as a tool to rally anti-catholic protestors", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's tough to be startled when you 're almost dozing .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: targeted to the tiniest segment of an already obscure demographic .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: rip-roaring comedy action", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: work that lacks both a purpose and a strong pulse", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's not enough intelligence , wit or innovation on the screen to attract and sustain an older crowd .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's touching and tender and proves that even in sorrow you can find humor", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: possible argentine american beauty reeks", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the cast is top-notch", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: 'd do well to check this one out because it 's straight up twin peaks action", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: believing it was just coincidence", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: recycled", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's kind of insulting , both to men and women .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: fake backdrops", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: it 's a talking head documentary , but a great one .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: as a masterfully made one", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is its utter sincerity .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the optimism of a group of people who are struggling to give themselves a better lot in life than the ones", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: come along that turns me into that annoying specimen of humanity that i usually dread encountering the most - the fanboy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: as single-minded as john carpenter 's original", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: to be mesmerised", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: daft by half ... but supremely good natured", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: some of the most inventive", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: the numerous scenes", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: teen-sleaze", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the most ravaging , gut-wrenching , frightening war scenes since `` saving private ryan ''", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: it is spooky and subtly in love with myth", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: funniest american comedy", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: pure craft", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: painful and", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: enjoys", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: is never dull", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: are both overplayed and exaggerated", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is as visceral as a gut punch", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hoffman 's quirks and mannerisms , particularly his penchant for tearing up on cue -- things that seem so real in small doses -- become annoying and artificial .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the pool drowned me in boredom .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: is unusual but unfortunately also irritating .", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: lost in the translation ... another routine hollywood frightfest in which the slack execution italicizes the absurdity of the premise", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: does n't wrap the proceedings up neatly", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: 's fun , wispy , wise and surprisingly inoffensive for a film about a teen in love with his stepmom .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: lighthearted glow", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: hip-hop prison thriller of stupefying absurdity", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pushes its agenda too forcefully", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: pure cinematic intoxication , a wildly inventive mixture of comedy and melodrama , tastelessness and swooning elegance .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: its drastic iconography", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: love , memory , history", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: of the people who loved the 1989 paradiso will prefer this new version", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: ... it is visually ravishing , penetrating , impenetrable .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: could desire to the cheap , graceless , hackneyed sci-fi serials of the '30s and '40s", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: a really strong second effort", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: rare to see a movie that takes such a speedy swan dive from `` promising '' to `` interesting '' to `` familiar '' before landing squarely on `` stupid ''", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: the operative word for `` bad company", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: affirming '", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: if also somewhat hermetic .", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: babies are the kiss of death in this bitter italian comedy", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: based on three short films and two features , here 's betting her third feature will be something to behold", "target": "positive", "refs": ["positive"]}
+{"task": "classification", "input": "classify sentiment: for industrial-model meat freezers", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: often lethally dull", "target": "negative", "refs": ["negative"]}
+{"task": "classification", "input": "classify sentiment: love the music", "target": "positive", "refs": ["positive"]}

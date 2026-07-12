@@ -1,0 +1,65 @@
+{
+  "classification_train": {
+    "n": 1000,
+    "input_words_avg": 11.2,
+    "input_words_max": 47,
+    "target_words_avg": 1.0,
+    "target_words_max": 1
+  },
+  "classification_val": {
+    "n": 200,
+    "input_words_avg": 10.9,
+    "input_words_max": 40,
+    "target_words_avg": 1.0,
+    "target_words_max": 1
+  },
+  "classification_test": {
+    "n": 200,
+    "input_words_avg": 21.8,
+    "input_words_max": 44,
+    "target_words_avg": 1.0,
+    "target_words_max": 1
+  },
+  "translation_train": {
+    "n": 1000,
+    "input_words_avg": 18.6,
+    "input_words_max": 34,
+    "target_words_avg": 14.2,
+    "target_words_max": 30
+  },
+  "translation_val": {
+    "n": 200,
+    "input_words_avg": 18.3,
+    "input_words_max": 34,
+    "target_words_avg": 13.9,
+    "target_words_max": 29
+  },
+  "translation_test": {
+    "n": 200,
+    "input_words_avg": 18.5,
+    "input_words_max": 34,
+    "target_words_avg": 14.5,
+    "target_words_max": 30
+  },
+  "qa_train": {
+    "n": 1000,
+    "input_words_avg": 114.6,
+    "input_words_max": 193,
+    "target_words_avg": 3.1,
+    "target_words_max": 23
+  },
+  "qa_val": {
+    "n": 200,
+    "input_words_avg": 118.5,
+    "input_words_max": 191,
+    "target_words_avg": 3.5,
+    "target_words_max": 27
+  },
+  "qa_test": {
+    "n": 200,
+    "input_words_avg": 115.6,
+    "input_words_max": 211,
+    "target_words_avg": 2.9,
+    "target_words_max": 14
+  }
+}

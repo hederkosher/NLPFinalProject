@@ -4,7 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## State
 
-No code yet. The repo contains only `NLP_Final_Project_2026_B.pdf` — the assignment spec (Hebrew). Everything below is from that spec; there are no build/lint/test commands until code exists.
+Implemented as Python scripts (see README.md for full details). `NLP_Final_Project_2026_B.pdf` is the assignment spec (Hebrew); the sections below summarize it.
+
+## Commands
+
+```bash
+source .venv/bin/activate            # Python 3.12 venv, deps pinned in requirements.txt
+python data_prep.py                  # rebuild fixed splits (seed 42) into data/
+python train.py --method full|lora   # train Model A / Model B -> checkpoints/{method}/final
+python eval_model.py --method full|lora   # metrics + predictions -> results/
+python compile_results.py            # results/results.xlsx (spec tables 1-6) + results.json
+```
+
+`train.py`, `eval_model.py`, and `compile_results.py` take `--smoke` (tiny data, separate `smoke_*`/`*_smoke` output paths) to verify the whole pipeline in under a minute without touching real outputs; smoke runs sample from the real `data/` splits, so `data_prep.py` (which takes no flags and rejects unknown ones) must have run once. Constants shared by all scripts (base model, seed, token limits, paths) live in `common.py`. `eval_model.py` is deliberately not named `evaluate.py` (would shadow imports). Do not re-run real training casually — results feed the user's report; `train_*.json`/`eval_*.json` timings would change.
 
 ## The assignment
 

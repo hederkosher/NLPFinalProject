@@ -1,0 +1,45 @@
+{
+  "method": "full",
+  "smoke": false,
+  "device": "mps",
+  "generation": {
+    "strategy": "greedy",
+    "batch_size": 16,
+    "max_new_tokens": {
+      "classification": 5,
+      "translation": 64,
+      "qa": 32
+    }
+  },
+  "per_task": {
+    "classification": {
+      "n": 200,
+      "accuracy": 0.84,
+      "macro_f1": 0.8397,
+      "precision_macro": 0.8397,
+      "recall_macro": 0.8413,
+      "invalid_rate": 0.0,
+      "avg_output_words": 1.0,
+      "inference_sec": 1.3,
+      "sec_per_100": 0.7
+    },
+    "translation": {
+      "n": 200,
+      "bleu": 6.06,
+      "chrf": 29.4,
+      "avg_output_words": 14.78,
+      "inference_sec": 17.9,
+      "sec_per_100": 8.9
+    },
+    "qa": {
+      "n": 200,
+      "exact_match": 0.785,
+      "token_f1": 0.8441,
+      "avg_gold_words": 2.85,
+      "avg_output_words": 2.81,
+      "inference_sec": 6.0,
+      "sec_per_100": 3.0
+    }
+  },
+  "inference_sec_per_100_overall": 4.2
+}

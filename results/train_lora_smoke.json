@@ -1,0 +1,24 @@
+{
+  "method": "lora",
+  "base_model": "google/flan-t5-small",
+  "smoke": true,
+  "epochs": 1,
+  "learning_rate": 0.0005,
+  "batch_size": 8,
+  "max_input_tokens": 256,
+  "max_target_tokens": 64,
+  "seed": 42,
+  "device": "mps:0",
+  "train_samples": 32,
+  "val_samples": 16,
+  "trainable_params": 688128,
+  "total_params": 77649280,
+  "trainable_pct": 0.8862,
+  "train_runtime_sec": 2.7,
+  "final_train_loss": 3.0153,
+  "val_loss_by_epoch": [
+    2.1503
+  ],
+  "checkpoint": "checkpoints/smoke_lora/final",
+  "checkpoint_size_mb": 5.0
+}
