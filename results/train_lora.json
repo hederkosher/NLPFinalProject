@@ -1,9 +1,9 @@
 {
-  "method": "full",
+  "method": "lora",
   "base_model": "google/flan-t5-small",
   "smoke": false,
   "epochs": 3,
-  "learning_rate": 5e-05,
+  "learning_rate": 0.0005,
   "batch_size": 8,
   "max_input_tokens": 256,
   "max_target_tokens": 64,
@@ -12,16 +12,16 @@
   "hardware": "Darwin arm64, python 3.12.7, torch 2.13.0",
   "train_samples": 3000,
   "val_samples": 600,
-  "trainable_params": 76961152,
-  "total_params": 76961152,
-  "trainable_pct": 100.0,
-  "train_runtime_sec": 724.8,
-  "final_train_loss": 2.4443,
+  "trainable_params": 688128,
+  "total_params": 77649280,
+  "trainable_pct": 0.8862,
+  "train_runtime_sec": 421.5,
+  "final_train_loss": 2.5167,
   "val_loss_by_epoch": [
-    2.1994,
-    2.1651,
-    2.1569
+    2.2363,
+    2.2114,
+    2.2034
   ],
-  "checkpoint": "checkpoints/full/final",
-  "checkpoint_size_mb": 295.9
+  "checkpoint": "checkpoints/lora/final",
+  "checkpoint_size_mb": 5.0
 }
