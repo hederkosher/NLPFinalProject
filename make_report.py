@@ -17,8 +17,10 @@ OUT = "final_report.docx"
 
 
 def load_inputs():
-    train = {m: json.load(open(RESULTS / f"train_{m}.json")) for m in ["full", "lora"]}
-    evals = {m: json.load(open(RESULTS / f"eval_{m}.json")) for m in ["full", "lora"]}
+    train = {m: json.load(open(RESULTS / f"train_{m}.json", encoding="utf-8"))
+             for m in ["full", "lora"]}
+    evals = {m: json.load(open(RESULTS / f"eval_{m}.json", encoding="utf-8"))
+             for m in ["full", "lora"]}
     sheets = pd.read_excel(RESULTS / "results.xlsx", sheet_name=None)
     return train, evals, sheets
 
@@ -125,7 +127,8 @@ def main():
     add_table(doc, sheets["2_classification"])
     doc.add_paragraph()
     caption(doc, "Table 3 — Translation (OPUS Books, English→French)")
-    add_table(doc, sheets["3_translation"])
+    add_table(doc, sheets["3_translation"], font_size=9,
+              truncate={"Error example (worst case)": 220})
     para(doc,
          "Absolute translation quality is low (BLEU ≈ 6) for both models: OPUS Books is "
          "literary prose, 1,000 sentence pairs are few, and the 77M-parameter model has "
@@ -133,7 +136,8 @@ def main():
          "correctness without exact n-gram matches. The comparison between methods remains "
          "meaningful because both models face identical conditions.")
     caption(doc, "Table 4 — Question Answering (SQuAD v1.1)")
-    add_table(doc, sheets["4_qa"])
+    add_table(doc, sheets["4_qa"], font_size=9,
+              truncate={"Error example (worst case)": 220})
 
     # 3. Overall score ------------------------------------------------------
     doc.add_heading("3. Overall Score and Computational Cost", level=1)

@@ -19,5 +19,5 @@ def ckpt_dir(method: str, smoke: bool = False) -> Path:
 
 
 def load_jsonl(path: Path) -> list[dict]:
-    with open(path) as f:
+    with open(path, encoding="utf-8") as f:
         return [json.loads(line) for line in f]

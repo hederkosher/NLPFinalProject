@@ -18,7 +18,7 @@ MODEL_NAME = {"full": "Model A (Full FT)", "lora": "Model B (LoRA)"}
 
 
 def load(kind, method, suffix):
-    with open(RESULTS / f"{kind}_{method}{suffix}.json") as f:
+    with open(RESULTS / f"{kind}_{method}{suffix}.json", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -161,6 +161,19 @@ def main():
     preds = {m: {t: load_jsonl(RESULTS / f"preds_{m}_{t}{suffix}.jsonl") for t in TASKS}
              for m in METHODS}
 
+    chrf = CHRF()
+    ERR_COL = "Error example (worst case)"
+    mt_errors = {MODEL_NAME[m]: worst_example(
+        preds[m]["translation"],
+        lambda r: chrf.sentence_score(r["pred"], [r["target"]]).score,
+        lambda r: f"{r['input'].removeprefix('translate English to French: ')} -> "
+                  f"'{r['pred'].strip()}' (gold: '{r['target']}')") for m in METHODS}
+    qa_errors = {MODEL_NAME[m]: worst_example(
+        preds[m]["qa"],
+        lambda r: qa_f1(r["pred"], r["refs"]),
+        lambda r: f"{r['input'].split(' context: ')[0].removeprefix('question: ')} -> "
+                  f"'{r['pred'].strip()}' (gold: '{r['target']}')") for m in METHODS}
+
     mt_cols = [("BLEU", "bleu"), ("chrF", "chrf"),
                ("Average output length (words)", "avg_output_words"),
                ("Inference sec / 100", "sec_per_100")]
@@ -181,6 +194,8 @@ def main():
         "5_scores_and_cost": sheet_scores(train, evals),
         "6_qualitative": sheet_qualitative(preds),
     }
+    for name, errors in [("3_translation", mt_errors), ("4_qa", qa_errors)]:
+        sheets[name][ERR_COL] = [errors.get(m, "") for m in sheets[name]["Model"]]
 
     xlsx = RESULTS / f"results{suffix}.xlsx"
     with pd.ExcelWriter(xlsx, engine="openpyxl") as writer:
@@ -192,7 +207,7 @@ def main():
         "train": train, "eval": evals,
         "scores": sheets["5_scores_and_cost"].to_dict(orient="records"),
     }
-    with open(RESULTS / f"results{suffix}.json", "w") as f:
+    with open(RESULTS / f"results{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(consolidated, f, indent=2, ensure_ascii=False)
 
     for name, df in sheets.items():

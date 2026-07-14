@@ -106,7 +106,7 @@ def main():
     }
     RESULTS.mkdir(exist_ok=True)
     suffix = "_smoke" if args.smoke else ""
-    with open(RESULTS / f"train_{args.method}{suffix}.json", "w") as f:
+    with open(RESULTS / f"train_{args.method}{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(info, f, indent=2)
     print(json.dumps(info, indent=2))
 

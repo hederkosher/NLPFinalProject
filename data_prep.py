@@ -22,7 +22,7 @@ CLS_LABELS = {0: "negative", 1: "positive"}
 
 def dump(rows, name):
     path = DATA / f"{name}.jsonl"
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     return path
@@ -137,7 +137,7 @@ def main():
                   f"{s['input_words_avg']:>13} / {s['input_words_max']:<4} "
                   f"{s['target_words_avg']:>14} / {s['target_words_max']:<4}")
 
-    with open(DATA / "stats.json", "w") as f:
+    with open(DATA / "stats.json", "w", encoding="utf-8") as f:
         json.dump(stats, f, indent=2)
 
     for task, per_split in splits.items():

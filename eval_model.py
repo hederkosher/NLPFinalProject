@@ -146,7 +146,8 @@ def main():
         total_sec += elapsed
         total_n += len(rows)
 
-        with open(RESULTS / f"preds_{args.method}_{task}{suffix}.jsonl", "w") as f:
+        with open(RESULTS / f"preds_{args.method}_{task}{suffix}.jsonl", "w",
+                  encoding="utf-8") as f:
             for r, p in zip(rows, preds):
                 f.write(json.dumps({"input": r["input"], "target": r["target"],
                                     "refs": r["refs"], "pred": p}, ensure_ascii=False) + "\n")
@@ -159,7 +160,7 @@ def main():
         "per_task": per_task,
         "inference_sec_per_100_overall": round(total_sec / total_n * 100, 1),
     }
-    with open(RESULTS / f"eval_{args.method}{suffix}.json", "w") as f:
+    with open(RESULTS / f"eval_{args.method}{suffix}.json", "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2)
     print(json.dumps(report, indent=2))
 
