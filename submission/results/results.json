@@ -1,0 +1,180 @@
+{
+  "formula": "overall = (100*macro_F1 + BLEU + 100*QA_token_F1) / 3",
+  "train": {
+    "full": {
+      "method": "full",
+      "base_model": "google/flan-t5-small",
+      "smoke": false,
+      "epochs": 3,
+      "learning_rate": 5e-05,
+      "batch_size": 8,
+      "max_input_tokens": 256,
+      "max_target_tokens": 64,
+      "seed": 42,
+      "device": "mps:0",
+      "hardware": "Darwin arm64, python 3.12.7, torch 2.13.0",
+      "train_samples": 3000,
+      "val_samples": 600,
+      "trainable_params": 76961152,
+      "total_params": 76961152,
+      "trainable_pct": 100.0,
+      "train_runtime_sec": 724.8,
+      "final_train_loss": 2.4443,
+      "val_loss_by_epoch": [
+        2.1994,
+        2.1651,
+        2.1569
+      ],
+      "checkpoint": "checkpoints/full/final",
+      "checkpoint_size_mb": 295.9
+    },
+    "lora": {
+      "method": "lora",
+      "base_model": "google/flan-t5-small",
+      "smoke": false,
+      "epochs": 3,
+      "learning_rate": 0.0005,
+      "batch_size": 8,
+      "max_input_tokens": 256,
+      "max_target_tokens": 64,
+      "seed": 42,
+      "device": "mps:0",
+      "hardware": "Darwin arm64, python 3.12.7, torch 2.13.0",
+      "train_samples": 3000,
+      "val_samples": 600,
+      "trainable_params": 688128,
+      "total_params": 77649280,
+      "trainable_pct": 0.8862,
+      "train_runtime_sec": 421.5,
+      "final_train_loss": 2.5167,
+      "val_loss_by_epoch": [
+        2.2363,
+        2.2114,
+        2.2034
+      ],
+      "checkpoint": "checkpoints/lora/final",
+      "checkpoint_size_mb": 5.0
+    }
+  },
+  "eval": {
+    "full": {
+      "method": "full",
+      "smoke": false,
+      "device": "mps",
+      "generation": {
+        "strategy": "greedy",
+        "batch_size": 16,
+        "max_new_tokens": {
+          "classification": 5,
+          "translation": 64,
+          "qa": 32
+        }
+      },
+      "per_task": {
+        "classification": {
+          "n": 200,
+          "accuracy": 0.84,
+          "macro_f1": 0.8397,
+          "precision_macro": 0.8397,
+          "recall_macro": 0.8413,
+          "invalid_rate": 0.0,
+          "avg_output_words": 1.0,
+          "inference_sec": 1.3,
+          "sec_per_100": 0.6
+        },
+        "translation": {
+          "n": 200,
+          "bleu": 6.11,
+          "chrf": 29.51,
+          "avg_output_words": 14.69,
+          "inference_sec": 15.2,
+          "sec_per_100": 7.6
+        },
+        "qa": {
+          "n": 200,
+          "exact_match": 0.78,
+          "token_f1": 0.8396,
+          "avg_gold_words": 2.85,
+          "avg_output_words": 2.65,
+          "inference_sec": 5.6,
+          "sec_per_100": 2.8
+        }
+      },
+      "inference_sec_per_100_overall": 3.7
+    },
+    "lora": {
+      "method": "lora",
+      "smoke": false,
+      "device": "mps",
+      "generation": {
+        "strategy": "greedy",
+        "batch_size": 16,
+        "max_new_tokens": {
+          "classification": 5,
+          "translation": 64,
+          "qa": 32
+        }
+      },
+      "per_task": {
+        "classification": {
+          "n": 200,
+          "accuracy": 0.835,
+          "macro_f1": 0.835,
+          "precision_macro": 0.8369,
+          "recall_macro": 0.8381,
+          "invalid_rate": 0.0,
+          "avg_output_words": 1.0,
+          "inference_sec": 1.4,
+          "sec_per_100": 0.7
+        },
+        "translation": {
+          "n": 200,
+          "bleu": 5.76,
+          "chrf": 28.56,
+          "avg_output_words": 14.26,
+          "inference_sec": 16.5,
+          "sec_per_100": 8.2
+        },
+        "qa": {
+          "n": 200,
+          "exact_match": 0.77,
+          "token_f1": 0.8262,
+          "avg_gold_words": 2.85,
+          "avg_output_words": 2.67,
+          "inference_sec": 6.1,
+          "sec_per_100": 3.1
+        }
+      },
+      "inference_sec_per_100_overall": 4.0
+    }
+  },
+  "scores": [
+    {
+      "Model": "Model A (Full FT)",
+      "Classification score": 83.97,
+      "Translation score": 6.11,
+      "QA score": 83.96,
+      "Overall score": 58.01,
+      "Train time (min)": 12.1,
+      "Inference time / 100 examples (sec)": 3.7
+    },
+    {
+      "Model": "Model B (LoRA)",
+      "Classification score": 83.5,
+      "Translation score": 5.76,
+      "QA score": 82.62,
+      "Overall score": 57.29,
+      "Train time (min)": 7.0,
+      "Inference time / 100 examples (sec)": 4.0
+    },
+    {
+      "Model": "B-A",
+      "Classification score": -0.47,
+      "Translation score": -0.35,
+      "QA score": -1.34,
+      "Overall score": -0.72,
+      "Train time (min)": -5.1,
+      "Inference time / 100 examples (sec)": 0.3
+    }
+  ]
+}
